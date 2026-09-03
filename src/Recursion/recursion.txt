@@ -1,0 +1,6 @@
+1.It helps in solving bigger complex problems in easier way.
+2.You can convert recursion solution into iteration and vice versa.
+3.when the recursion function finishes its execution it get removed from the call stack and goes 
+back to the callling function.
+4.space complexity is not constant because of recursive callls
+5.It helps in breaking bigger problems into smaller ones.
